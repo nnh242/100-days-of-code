@@ -18,3 +18,11 @@
 **Link(s) to work**
 1. [New Portfolio Color Schemes](https://github.com/nnh242/tina.n.hoang/tree/new-portfolio)
 2. [Vue.js starter project](https://github.com/nnh242/hello-AAAS-i-am-tina)
+
+### Day 2:
+**Today's Progress**: I continued to experiment with new colors for my portfolio, going in the blue and green direction, avoiding red and oranges which mean error in a website. I am determined to finish the vue.js site to add to my job application. I really want this front end developer job.
+
+**Thoughts**: had so much fun with colors, although don't know why i can't still can't loop colors with css color_change animation, the colors still seem to be inherited from parents
+**Link(s) to work**
+1. [New Portfolio Color Schemes](https://github.com/nnh242/tina.n.hoang)
+2. [Vue.js starter project](https://github.com/nnh242/hello-AAAS-i-am-tina)
