@@ -18,3 +18,11 @@
 **Link(s) to work**
 1. [New Portfolio Color Schemes](https://github.com/nnh242/tina.n.hoang/tree/new-portfolio)
 2. [Vue.js starter project](https://github.com/nnh242/hello-AAAS-i-am-tina)
+
+### Day 3:
+**Today's Progress**: Learned how to write a dumb Vue.js component - I love Vue a bit more than React now - because everything is in a single file for a single page app. I also learned to blink colors for texts and icons for my simple introduction page for my job application at AAAS. Really hoping I will get interviews.
+
+**Thoughts**: Positive :) Happy Thoughts today - Learning makes me happy even small things - still make me happy at 2 AM.
+
+**Link to work**
+[hello-aaas](https://hello-aaas-i-am-tina.herokuapp.com/)
