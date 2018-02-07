@@ -64,7 +64,7 @@
 **Link to Work**: [Portfolio](https://nnh242.github.io/tina.n.hoang/)
 
 ##Day 8:
-**Today's Progress**: I learned something new today: svg - and path and drawing triangles with this.
+**Today's Progress**: I learned something new today: to use svg - and path and drawing triangles with this.
 
 **Thoughts**: having fun. I am drawing a triangle's dream of multiplying triangles. Figuring out the coordinates is interesting, which makes me think of another way to loop this or map this drawing.
 
