@@ -40,29 +40,32 @@
 
 **Thoughts**: confused about my own repo - must have been when i merge the client and server into 1 repo...
 
-**Link to work**:
-1. [messy mess]: https://github.com/nnh242/Team-Sight-App-with-API
+**Link to work**:[messy mess](https://github.com/nnh242/Team-Sight-App-with-API)
 
 ### Day 5:
 **Today's Progress**: reorganized portfolio page; style: buttons and elements, add: accents colors, fix: image, bug found on API app.
 
 **Thoughts/ Mood**: tired and waiting to hear back from job applications. i am looking for junior JavaScript developer job.
 
-**Link to Work**:
-1. [Portfolio]: https://nnh242.github.io/tina.n.hoang/
+**Link to Work**: [Portfolio](https://nnh242.github.io/tina.n.hoang/)
 
 ### Day 6:
 **Today's Progress**: get setup with http-server, Grunt, and Phaser to build a dog runner HTML5 2D game. Game idea: a dog finding its way back home jumping obstacles and eating flying bacon strips, inspired by the folk story of the Korean Jindo.
+
 **Thoughts**: distraction needed, also needed something to show front end skills - HTML5 game it is - Phaser takes a bit of reading to set up plus learning Grunt task runner takes a bit practice. Happy with my game idea. Making the graphic in sketch.
-**Link to Work**:
-1.[starter file]: https://github.com/nnh242/fluffy-cocopuffy
+
+**Link to Work**:[starter file](https://github.com/nnh242/fluffy-cocopuffy)
 
 ### Day 7:
 **Today's Progress**: after a break (super bowl Sunday) - i'm back to getting my portflio in a better shape. Used fullstory to watch user's experience, they don't click on my projects, I turned my image into gif that demo my projects so now users have to look at my projects the way I want them to look at it.
+
 **Thoughts**: happy that I figured out how to make gif and effectively add more staged interactions with my Portfolio
-**Link to Work**: https://nnh242.github.io/tina.n.hoang/
+
+**Link to Work**: [Portfolio](https://nnh242.github.io/tina.n.hoang/)
 
 ##Day 8:
 **Today's Progress**: I learned something new today: svg - and path and drawing triangles with this.
+
 **Thoughts**: having fun. I am drawing a triangle's dream of multiplying triangles. Figuring out the coordinates is interesting, which makes me think of another way to loop this or map this drawing.
-**Link to Work**: https://codepen.io/nhoang/pen/yvaQwV
+
+**Link to Work**: [a triangle's dream](https://codepen.io/nhoang/pen/yvaQwV)
