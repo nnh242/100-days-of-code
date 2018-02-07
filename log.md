@@ -59,6 +59,10 @@
 
 ### Day 7:
 **Today's Progress**: after a break (super bowl Sunday) - i'm back to getting my portflio in a better shape. Used fullstory to watch user's experience, they don't click on my projects, I turned my image into gif that demo my projects so now users have to look at my projects the way I want them to look at it.
-
 **Thoughts**: happy that I figured out how to make gif and effectively add more staged interactions with my Portfolio
 **Link to Work**: https://nnh242.github.io/tina.n.hoang/
+
+##Day 8:
+**Today's Progress**: I learned something new today: svg - and path and drawing triangles with this.
+**Thoughts**: having fun. I am drawing a triangle's dream of multiplying triangles. Figuring out the coordinates is interesting, which makes me think of another way to loop this or map this drawing.
+**Link to Work**: https://codepen.io/nhoang/pen/yvaQwV
