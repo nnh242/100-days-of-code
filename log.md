@@ -59,7 +59,7 @@
 1.[starter file](https://github.com/nnh242/fluffy-cocopuffy)
 
 ### Day 7:
-**Today's Progress**: after a break (super bowl Sunday) - i'm back to getting my portflio in a better shape. Used fullstory to watch user's experience, they don't click on my projects, I turned my image into gif that demo my projects so now users have to look at my projects the way I want them to look at it.
+**Today's Progress**: after a break (super bowl Sunday) - i'm back to getting my portfolio in a better shape. Used fullstory to watch user's experience, they don't click on my projects, I turned my image into gif that demo my projects so now users have to look at my projects the way I want them to look at it.
 
 **Thoughts**: happy that I figured out how to make gif and effectively add more staged interactions with my Portfolio
 
@@ -71,3 +71,10 @@
 **Thoughts**: having fun. I am drawing a triangle's dream of multiplying triangles. Figuring out the coordinates is interesting, which makes me think of another way to loop this or map this drawing.
 
 **Link to Work**: [triangle dream](https://codepen.io/nhoang/pen/yvaQwV)
+
+### Day 9:
+**Today's Progress**: need to get the streak more consistent and stop missing one day here and there. Today I spent some time with font-pairing, font-sizing, and fixed my Portfolio page.
+
+**Thoughts**: very intrigued by fonts and their design values to emphasize or de-emphasize different elements on a single page. Debating about gif usage if the gif is too slow or too long.
+
+**Link to Work**: [Portfolio](https://nnh242.github.io/tina.n.hoang/)
