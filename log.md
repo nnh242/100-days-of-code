@@ -78,3 +78,10 @@
 **Thoughts**: very intrigued by fonts and their design values to emphasize or de-emphasize different elements on a single page. Debating about gif usage if the gif is too slow or too long.
 
 **Link to Work**: [Portfolio](https://nnh242.github.io/tina.n.hoang/)
+
+### Day 10:
+**Today's Progress**: drawing triangle - drafted a drawing plan on paper and happy with it, separate them into rows and set a goal to do this in a week. yay!
+
+**Thoughts**: happy :) happy thoughts :) I will draw more.
+
+**Link to Work**: [Triangle Dream](https://nnh242.github.io/a-triangle-dream/)
