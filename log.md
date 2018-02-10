@@ -85,3 +85,10 @@
 **Thoughts**: happy :) happy thoughts :) I will draw more.
 
 **Link to Work**: [Triangle Dream](https://nnh242.github.io/a-triangle-dream/)
+
+### Day 11:
+**Today's Progress**: fixed button, chart, styling and form issues on react projects
+
+**Thoughts**: happy :) happy thoughts :) went to code and coffee coworking meetup and got help pretty quickly on my form
+
+**Link to Work**: [Team Sight](https://team-sight.herokuapp.com)
