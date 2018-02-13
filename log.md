@@ -92,3 +92,17 @@
 **Thoughts**: happy :) happy thoughts :) went to code and coffee coworking meetup and got help pretty quickly on my form
 
 **Link to Work**: [Team Sight](https://team-sight.herokuapp.com)
+
+### Day 12:
+
+**Today's Progress**: Drawing triangles dreaming about other triangles - svg, css. I mainly learn svg path m l z and other attributes so I can get better at learning d3..which needs to be faster. I really like data visualization and would like to use data to draw pictures
+
+**Thoughts**: feeling slow and unsuccessful Today
+
+### Day 13:
+
+**Today's Progress**: Continue drawing triangles.. there has gotta be a faster way to figure out the coordinates for these triangles. They share at least one side, so why am I drawing two sides and use Z to close it meaning i'm drawing all three sides. I should read more on this.
+
+**Thoughts**: I am staying with this drawing this week to finish all 8 rows. I want to keep this challenge simple to focus on job searching and bug fixing my personal projects.
+
+**Link to Work**: [Triangle Dream](https://nnh242.github.io/a-triangle-dream/)
