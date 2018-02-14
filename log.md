@@ -106,3 +106,13 @@
 **Thoughts**: I am staying with this drawing this week to finish all 8 rows. I want to keep this challenge simple to focus on job searching and bug fixing my personal projects.
 
 **Link to Work**: [Triangle Dream](https://nnh242.github.io/a-triangle-dream/)
+
+### Day 14:
+
+**Today's Progress**: - drew more triangles, fixed task form for React App, finding more interview questions online to fork, now it closes by itself after submitting, I want to make the logo more useful but not sure how to at the moment... will research some use case, usually logo redirects to homepage.
+
+**Thoughts**: I want to be able to have intense development while I am still in the coding bootcamp churning out mini projects and projects in days or weeks span...
+
+**Link to Work**:
+1. [Triangle Dream](https://nnh242.github.io/a-triangle-dream/)
+2. [Team Sight](https://team-sight.herokuapp.com)
