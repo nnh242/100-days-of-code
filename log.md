@@ -116,3 +116,9 @@
 **Link to Work**:
 1. [Triangle Dream](https://nnh242.github.io/a-triangle-dream/)
 2. [Team Sight](https://team-sight.herokuapp.com)
+
+### Day 15:
+
+**Today's Progress**: fix: bug on React App, opened pull requests - will attempt to resolve merge conflicts - must return to pushing code back to master not the deploy branch. Side goal is to revisit and write down the concepts in Eloquent JavaScript book, and the exercises answers as well.
+**Thoughts**: The last 15 ish days have shown me that jumping around new things were not as productive as staying focused on what I know, and re-reading the same materials with more experience. This same book Eloquent JavaScript I read 6 months ago will read differently now. I will start documenting my learning and write reading notes and answers to the coding questions down this time.
+**Link to Work**: [messy merge conflicts - 30+ commits ahead of master](https://github.com/nnh242/Team-Sight-App-with-API/pulls)
