@@ -111,7 +111,7 @@
 
 **Today's Progress**: - drew more triangles, fixed task form for React App, finding more interview questions online to fork, now it closes by itself after submitting, I want to make the logo more useful but not sure how to at the moment... will research some use case, usually logo redirects to homepage.
 
-**Thoughts**: I want to be able to have intense development while I am still in the coding bootcamp churning out mini projects and projects in days or weeks span...
+**Thoughts**: I want to be able to have intense development while I am still in the coding boot-camp churning out mini projects and projects in days or weeks span...
 
 **Link to Work**:
 1. [Triangle Dream](https://nnh242.github.io/a-triangle-dream/)
@@ -120,5 +120,28 @@
 ### Day 15:
 
 **Today's Progress**: fix: bug on React App, opened pull requests - will attempt to resolve merge conflicts - must return to pushing code back to master not the deploy branch. Side goal is to revisit and write down the concepts in Eloquent JavaScript book, and the exercises answers as well.
-**Thoughts**: The last 15 ish days have shown me that jumping around new things were not as productive as staying focused on what I know, and re-reading the same materials with more experience. This same book Eloquent JavaScript I read 6 months ago will read differently now. I will start documenting my learning and write reading notes and answers to the coding questions down this time.
+
+**Thoughts**: The last 15-ish days have shown me that jumping around new things were not as productive as staying focused on what I know, and re-reading the same materials with more experience. This same book Eloquent JavaScript I read 6 months ago will read differently now. I will start documenting my learning and write reading notes and answers to the coding questions down this time.
+
 **Link to Work**: [messy merge conflicts - 30+ commits ahead of master](https://github.com/nnh242/Team-Sight-App-with-API/pulls)
+
+### Day 16:
+**Today's Progress**: drawing more triangles --- practiced interview questions - brushed up on Eloquent JS chapter 3 - functions. :( homesick. Today is Lunar New Year's Eve. In Vietnam it is already New Year Day. #YearOfTheDog
+
+### Day 17:
+**Today's Progress**:
+- Phaser shooter game
+- Learned about branding
+- Read chapter 4 Eloquent JS
+ bonus: http://tinatheace.site/  was made - yeah I aced stuffs - learned how to publish a gh-pages to custom domain using namecheap; this helped me: https://www.namecheap.com/support/knowledgebase/article.aspx?type=article&contentid=9645&categoryid=2208&rating=5 …
+
+**Thoughts**: happy that I learned branding from Robbie the Geek. Now I am Tina the Ace because I ace stuffs and I also play poker when I'm not coding or cooking.
+
+**Link to Work**: (http://tinatheace.site)
+
+### Day 18:
+**Today's Progress**: realized that the frame is way off after adding the outline, it is easier to draw this out with x and y axis and figure out which to move to (M) in the d of the <path> who knows drawing with svg brings back algebra 1 memory.
+
+**Thoughts**: I really like drawing with <svg>; it's like drawing on x and y axis. I can set the scale in the svg tag, and then move to the path and set the length where to go from there. I am exploring path, line, curves and their combination and mutation to draw something abstract like the triangles or something familiar like the shape of a chair or a clock.
+
+**Link to Work**: [Triangle Dream](https://nnh242.github.io/a-triangle-dream/)
