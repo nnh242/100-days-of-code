@@ -145,3 +145,7 @@
 **Thoughts**: I really like drawing with <svg>; it's like drawing on x and y axis. I can set the scale in the svg tag, and then move to the path and set the length where to go from there. I am exploring path, line, curves and their combination and mutation to draw something abstract like the triangles or something familiar like the shape of a chair or a clock.
 
 **Link to Work**: [Triangle Dream](https://nnh242.github.io/a-triangle-dream/)
+### Day 19:
+**Today's Progress**: learning LESS using Tutorials and WinLess online examples.
+**Thoughts**: I like this because it is similar to the way I think in JavaScript. I have been finding a way to call headline a variable and define all the font family, size and color for it and reuse it in other class. Now I know to use mixins and variable to do that. I really like this because it is the way I think about styling and finally learned a tool/a way to do it.
+**Link to Work**: [Less-Tutorials-and-Notes](https://github.com/nnh242/less-tuts)
