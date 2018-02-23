@@ -149,3 +149,18 @@
 **Today's Progress**: learning LESS using Tutorials and WinLess online examples.
 **Thoughts**: I like this because it is similar to the way I think in JavaScript. I have been finding a way to call headline a variable and define all the font family, size and color for it and reuse it in other class. Now I know to use mixins and variable to do that. I really like this because it is the way I think about styling and finally learned a tool/a way to do it.
 **Link to Work**: [Less-Tutorials-and-Notes](https://github.com/nnh242/less-tuts)
+
+###Day 20:
+**Today's Progress**:
+I am pushing through some frustrating reading materials today. I want to learn clean code the struggle between clean vs predictable is real. Reading = Hiking for me. Hard to start and harder to stop.
+**Thoughts**: I like JavaScript - I have not found a way to enjoy Algorithm yet. Reading through the Eloquent JavaScript version 3 updates and the algorithm questions on thatJSdude are very draining. I am taking my time slowly with this.
+
+**Link to Work**: [Reading notes](https://github.com/nnh242/Reading-Notes)
+
+### Day 21:
+**Today's Progress**:
+ I circled back to the Phaser tutorial on how to build a space ship game and found a polished tutorial to learn from. I am using this as a sandbox to test the movements and game play for my dog infinite runner game.
+
+ **Thoughts**: This game is so much fun to build. I follow step by step the tutorial that was built before me and then I am taking notes with comments and plan some feature for my other game of infinite runner. Decided that the background provides continuous scrolling to create "the run" like in Mario, and the movement of hero character will be very controlled and there are specific methods in Phaser.js that can be used to do this. Squishing the image and acceleration, max speed and drag also will add to the movements and create a feel of running, jumping, crouching for the hero character. Excited to learn more.
+
+ **Link to Work**: [Space Game](https://nnh242.github.io/shemup/)
