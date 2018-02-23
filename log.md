@@ -164,3 +164,11 @@ I am pushing through some frustrating reading materials today. I want to learn c
  **Thoughts**: This game is so much fun to build. I follow step by step the tutorial that was built before me and then I am taking notes with comments and plan some feature for my other game of infinite runner. Decided that the background provides continuous scrolling to create "the run" like in Mario, and the movement of hero character will be very controlled and there are specific methods in Phaser.js that can be used to do this. Squishing the image and acceleration, max speed and drag also will add to the movements and create a feel of running, jumping, crouching for the hero character. Excited to learn more.
 
  **Link to Work**: [Space Game](https://nnh242.github.io/shemup/)
+
+### Day 22:
+
+**Today's Progress**:  Half done game and half studied book... very tired but cannot sleep.
+
+**Thoughts**: Dead tired and exhausted from day job. Freaking out about technical interviews and decided to stop studying tonight and continued to build the space ship game... in the middle of the space ship game... I was still freaking out about the technical interview so I came back to studying stuffs on thatJSdude and Eloquent JavaScript. I might as well hold up this book and pray to JavaScript God to be with me tomorrow morning at 11 am EST so I will pass my interview.
+
+**Link to Work**: [Space Ship Game](https://github.com/nnh242/shemup)
