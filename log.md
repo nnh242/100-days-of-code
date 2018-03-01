@@ -172,3 +172,24 @@ I am pushing through some frustrating reading materials today. I want to learn c
 **Thoughts**: Dead tired and exhausted from day job. Freaking out about technical interviews and decided to stop studying tonight and continued to build the space ship game... in the middle of the space ship game... I was still freaking out about the technical interview so I came back to studying stuffs on thatJSdude and Eloquent JavaScript. I might as well hold up this book and pray to JavaScript God to be with me tomorrow morning at 11 am EST so I will pass my interview.
 
 **Link to Work**: [Space Ship Game](https://github.com/nnh242/shemup)
+
+### Day 23:
+
+**Today's Progress**:Added more stuffs to this: [space ship game](https://nnh242.github.io/shemup/)   :D also trying the learnyounode package from [nodeschool] (http://nodeschool.io)
+
+### Day 24:
+- write doc for current projects, making sure that they are well written and free of errors. (http://tinatheace.site)  
+- practice whiteboard interview, write and talk the answers on my own, with the book: cracking the code interview
+- explore python
+
+### Day 25:
+Sketching up assets for my dog runner Phaser game. #html5 #CSS (beginning) #gamedev. As I move the background of the run, I also want to animate the dog. This is a good reference for animation:[Fluffy Cocopuffy ref](https://www.youtube.com/watch?v=8qV5pdO_X8U)
+**Thoughts**: I will use sketched up assets to do this instead of drawing the hero dog by svg because my goal for this game now is to get the v1 of game play and story working first.
+
+### Day 26 and 27:
+Shifting my focus away from building games and more towards prepping for upcoming technical interviews.
+Practicing for interview questions online, with mentors and reading more on cracking the coding interview and refactoring JavaScript.
+
+**Thoughts**: I realized that companies are not willing to hire people with little or no experience. I honestly think that this mindset is destructive, your senior developers will leave because they are doing the tasks that junior devs could have done plus they do not get to pass down their crafts. If you're worried about the costs of paying a senior devs to train a junior devs or productivity please think about the cost of them leaving and turnover as well. I am thinking that I should blog about this one day when I get to interview at more companies.
+
+[My collection of real interview questions](https://github.com/nnh242/interview_question_collection)
