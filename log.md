@@ -150,7 +150,7 @@
 **Thoughts**: I like this because it is similar to the way I think in JavaScript. I have been finding a way to call headline a variable and define all the font family, size and color for it and reuse it in other class. Now I know to use mixins and variable to do that. I really like this because it is the way I think about styling and finally learned a tool/a way to do it.
 **Link to Work**: [Less-Tutorials-and-Notes](https://github.com/nnh242/less-tuts)
 
-###Day 20:
+### Day 20:
 **Today's Progress**:
 I am pushing through some frustrating reading materials today. I want to learn clean code the struggle between clean vs predictable is real. Reading = Hiking for me. Hard to start and harder to stop.
 **Thoughts**: I like JavaScript - I have not found a way to enjoy Algorithm yet. Reading through the Eloquent JavaScript version 3 updates and the algorithm questions on thatJSdude are very draining. I am taking my time slowly with this.
