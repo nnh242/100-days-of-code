@@ -394,8 +394,9 @@ Practicing for interview questions online, with mentors and reading more on crac
 ### Day 28:
 **Today's Progress**:
 
-- rehab a PC I built in 2008 by installing Linux Mint and boot it along side the Windows
-- - study hash map and how to use it to solve the question:  print first unique character in a string in JavaScript. This was my solution under pressure in a real interview - live coding challenge in 45 minutes:
+- flipped a PC I built in 2008 by installing Linux Mint and boot it along side the Windows
+- spent 2 hours booting, installing and playing with software management in Linux Mint :) I am not going back to Windows and gave up on the idea of buying a new iMac. Saved money. 
+- studying hash map and how to use it to solve the question:  print first unique character in a string in JavaScript. This was my solution under pressure in a real interview - live coding challenge in 45 minutes:
 
 ```
 function testString(str){
@@ -421,7 +422,7 @@ console.log(testString("AABBCCDEEFF"));
 
 ```
 
-- found solution on leetcode - it even returns the position of the character - otherwise return -1.
+-I found this solution on leetcode - it even returns the position of the character - otherwise return -1.
 
 ```
 const firstUniqChar = function(s)
@@ -443,4 +444,4 @@ const firstUniqChar = function(s)
     return -1;
  } ;
 ```
->>>>>>> c8e0f9c47145760efed1939ad116d8271d34056c
+
