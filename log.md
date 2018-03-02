@@ -193,3 +193,56 @@ Practicing for interview questions online, with mentors and reading more on crac
 **Thoughts**: I realized that companies are not willing to hire people with little or no experience. I honestly think that this mindset is destructive, your senior developers will leave because they are doing the tasks that junior devs could have done plus they do not get to pass down their crafts. If you're worried about the costs of paying a senior devs to train a junior devs or productivity please think about the cost of them leaving and turnover as well. I am thinking that I should blog about this one day when I get to interview at more companies.
 
 [My collection of real interview questions](https://github.com/nnh242/interview_question_collection)
+
+### Day 28:
+**Today's Progress**:
+
+- rehab a PC I built in 2008 by installing Linux Mint and boot it along side the Windows
+- - study hash map and how to use it to solve the question:  print first unique character in a string in JavaScript. This was my solution under pressure in a real interview - live coding challenge in 45 minutes:
+
+```
+function testString(str){
+//  console.log(str);
+  let char='';
+  for(let i = 0; i<= str.length; i++ ) {
+    let char = str[i];
+    let next = str[i+1];
+//    console.log(char, next);
+    if (char == next) {
+      //if the character is the same as the next one -- keep going
+      char = str[i++];
+      next = str[i+2];
+    }
+    else{
+      return char;
+    }
+  }
+}
+
+console.log(testString("AABBCDD"));
+console.log(testString("AABBCCDEEFF"));
+
+```
+
+- found solution on leetcode - it even returns the position of the character - otherwise return -1.
+
+```
+const firstUniqChar = function(s)
+    const map=new Map();
+    for(let i=0;i<s.length;i++){
+         if(map.has(s[i])){
+             map.set(s[i],2);
+         }
+         else{
+             map.set(s[i],1);
+         }
+     }
+
+    for(let i=0;i<s.length;i++){
+        if(map.has(s[i]) && map.get(s[i])===1){
+            return i;
+        }
+    }
+    return -1;
+ } ;
+```
