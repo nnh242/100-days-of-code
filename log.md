@@ -396,6 +396,7 @@ Practicing for interview questions online, with mentors and reading more on crac
 
 - flipped a PC I built in 2008 by installing Linux Mint and boot it along side the Windows
 - spent 2 hours booting, installing and playing with software management in Linux Mint :) I am not going back to Windows and gave up on the idea of buying a new iMac. Saved money. 
+- learned to install sublime, git on linux - very easy. also linux mint cinnamon comes with python already installed! yay!
 - studying hash map and how to use it to solve the question:  print first unique character in a string in JavaScript. This was my solution under pressure in a real interview - live coding challenge in 45 minutes:
 
 ```
