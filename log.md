@@ -200,7 +200,7 @@ Practicing for interview questions online, with mentors and reading more on crac
 **Today's Progress**:
 
 - flipped a PC I built in 2008 by installing Linux Mint and boot it along side the Windows
-- spent 2 hours booting, installing and playing with software management in Linux Mint :) I am not going back to Windows and gave up on the idea of buying a new iMac. Saved money. 
+- spent 2 hours booting, installing and playing with software management in Linux Mint :) I am not going back to Windows and gave up on the idea of buying a new iMac. Saved money.
 - learned to install sublime, git on linux - very easy. also linux mint cinnamon comes with python already installed! yay!
 - studying hash map and how to use it to solve the question:  print first unique character in a string in JavaScript. This was my solution under pressure in a real interview - live coding challenge in 45 minutes:
 
@@ -250,4 +250,19 @@ const firstUniqChar = function(s)
     return -1;
  } ;
 ```
+### Day 29:
+**Today's Progress**: Coding interview questions. Big O notation review.
 
+**Thoughts**: Big O is not hard to understand when given good examples to understand. I am a problem solver and I want to solve it fast, I care about how fast my code can solve a problem and I see that Big O notates that. :) I enjoy reading and want to learn how to make sparknotes for the three programming books that I borrowed/bought.
+
+**Link to Work** :
+
+[Reading Notes](https://github.com/nnh242/Reading-Notes)
+
+### Day 30:
+**Today's Progress**: Reading continued. I have to prepare for coding interviews. I am not building new projects but continued with learning about refactoring JS and following the book on a specific example on new code from scratch, testing it and refactoring it.
+
+**Thoughts**: Refactoring is not rewriting. It is making the code better in quality (which can be decided by the dev team to be what is the make up the quality of the code) without changing the behavior of the code. This is an important point. Writing code is solving problems. There are many ways to solve a problem and with constraints from resources and time, code quality either suffers or improves depending.
+
+**Link to Work**:
+[Reading notes on refactoring js] (https://github.com/nnh242/Reading-Notes/tree/master/Refactoring-JS)
