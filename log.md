@@ -265,4 +265,15 @@ const firstUniqChar = function(s)
 **Thoughts**: Refactoring is not rewriting. It is making the code better in quality (which can be decided by the dev team to be what is the make up the quality of the code) without changing the behavior of the code. This is an important point. Writing code is solving problems. There are many ways to solve a problem and with constraints from resources and time, code quality either suffers or improves depending.
 
 **Link to Work**:
-[Reading notes on refactoring js] (https://github.com/nnh242/Reading-Notes/tree/master/Refactoring-JS)
+[Reading notes on refactoring js](https://github.com/nnh242/Reading-Notes/tree/master/Refactoring-JS)
+
+
+### Day 31:
+
+**Today's Progress**:
+Learning python today. I like stuffs that have snakes as symbols since I am born in the year of the snake.
+
+
+**Thoughts**: Python is interesting and more defined than JavaScript. I feel that Python, Django, Ruby and JavaScript are in the same cluster, I think this way ... very similiar to the Python's syntax. JavaScript hoisting, scopes and closures always baffle me.
+
+**Link to Work**: [Python notes](https://github.com/nnh242/learning-python)
