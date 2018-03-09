@@ -280,6 +280,12 @@ Learning python today. I like stuffs that have snakes as symbols since I am born
 
 ### Day 32:
 
+**Today's Progress**: taking it easy with FreeCodeCamp materials and really go back to the basics. Mainly I am curious what the self-taught folks are using to learn. I first found this site in 2016 but opted to go to a bootcamp for full concentration in HTML, CSS and JS. It also turns out that the bootcamp does not go into the details of syntax like in the freeCodeCamp curriculum which may need updating to ES6.
+
+**Thoughts**: I am super burned out from going to meetups, applying for jobs and holding my day job as an accountant this past week. It takes a lot to always be positive and say great things about myself to attract employers while having 3-4 rejections/week for not having enough experience as a full stack developer or that some positions want 3-5 years of experience while I have 1. 
+
+### Day 33:
+
 **Today's Progress**:
 - Cracking the coding interviews chapter 2 Big O notation full reading
 - Update CV, resume and published it to portfolio website
