@@ -277,3 +277,13 @@ Learning python today. I like stuffs that have snakes as symbols since I am born
 **Thoughts**: Python is interesting and more defined than JavaScript. I feel that Python, Django, Ruby and JavaScript are in the same cluster, I think this way ... very similiar to the Python's syntax. JavaScript hoisting, scopes and closures always baffle me.
 
 **Link to Work**: [Python notes](https://github.com/nnh242/learning-python)
+
+### Day 32:
+
+**Today's Progress**:
+- Cracking the coding interviews chapter 2 Big O notation full reading
+- Update CV, resume and published it to portfolio website
+
+**Thoughts**: Busy.. too busy.
+
+**Link to Work**: (tinatheace.site)
