@@ -282,7 +282,7 @@ Learning python today. I like stuffs that have snakes as symbols since I am born
 
 **Today's Progress**: taking it easy with FreeCodeCamp materials and really go back to the basics. Mainly I am curious what the self-taught folks are using to learn. I first found this site in 2016 but opted to go to a bootcamp for full concentration in HTML, CSS and JS. It also turns out that the bootcamp does not go into the details of syntax like in the freeCodeCamp curriculum which may need updating to ES6.
 
-**Thoughts**: I am super burned out from going to meetups, applying for jobs and holding my day job as an accountant this past week. It takes a lot to always be positive and say great things about myself to attract employers while having 3-4 rejections/week for not having enough experience as a full stack developer or that some positions want 3-5 years of experience while I have 1. 
+**Thoughts**: I am super burned out from going to meetups, applying for jobs and holding my day job as an accountant this past week. It takes a lot to always be positive and say great things about myself to attract employers while having 3-4 rejections/week for not having enough experience as a full stack developer or that some positions want 3-5 years of experience while I have 1.
 
 ### Day 33:
 
@@ -296,10 +296,21 @@ Learning python today. I like stuffs that have snakes as symbols since I am born
 
 ### Day 34:
 
-**Today's Progress**: Learning the process of the coding interview and working through white boarding questions. Hash table/map is my best friend for the next six months. 
+**Today's Progress**: Learning the process of the coding interview and working through white boarding questions. Hash table/map is my best friend for the next six months.
 
 ### Day 35:
 
 **Today's Progress**: Making progress on installing propietary driver for AMD Radeon Graphic card on my Linux Mint machine. It is fun to learn about a new platform. I am dumping windows and mac iOS for linux :) would not learn how to do install driver on linux had I installed ubuntu, which comes with Radeon driver installed.
 
 **Thoughts**: Although I am not building new code these two days but I am learning how to use basic scripting to get linux up and running on a very old computer I built in 2008. My graphic card was very expensive for me back then, which lasted until now. 10 years now. White boarding questions are not scary now that I am learning a method to solve it and optimize it. I have not finished reading fully about BUD optimization or other ways to optimize a solution to general (use any language) technical question. I want to be able to use more examples to solve the problems.
+
+### Day 36:
+
+**Today's Progress**: struggling with basic scripting to fix linux mint black screen issue, to install graphic card driver and now this: linux mint is stuck on start up with 4 green dots... at least it is not a black screen...
+
+### Day 37:
+**Today's Progress**: finished documentation on my MERN app :) yay!
+
+**Thoughts**: having fun at Code and Coffee in DC
+
+**Link to Work**: (Team Sight Doc)[https://github.com/nnh242/Team-Sight-App-with-API/blob/deploy-branch/README.md]
