@@ -293,3 +293,13 @@ Learning python today. I like stuffs that have snakes as symbols since I am born
 **Thoughts**: Busy.. too busy.
 
 **Link to Work**: (tinatheace.site)
+
+### Day 34:
+
+**Today's Progress**: Learning the process of the coding interview and working through white boarding questions. Hash table/map is my best friend for the next six months. 
+
+### Day 35:
+
+**Today's Progress**: Making progress on installing propietary driver for AMD Radeon Graphic card on my Linux Mint machine. It is fun to learn about a new platform. I am dumping windows and mac iOS for linux :) would not learn how to do install driver on linux had I installed ubuntu, which comes with Radeon driver installed.
+
+**Thoughts**: Although I am not building new code these two days but I am learning how to use basic scripting to get linux up and running on a very old computer I built in 2008. My graphic card was very expensive for me back then, which lasted until now. 10 years now. White boarding questions are not scary now that I am learning a method to solve it and optimize it. I have not finished reading fully about BUD optimization or other ways to optimize a solution to general (use any language) technical question. I want to be able to use more examples to solve the problems.
