@@ -314,3 +314,8 @@ Learning python today. I like stuffs that have snakes as symbols since I am born
 **Thoughts**: having fun at Code and Coffee in DC
 
 **Link to Work**: (Team Sight Doc)[https://github.com/nnh242/Team-Sight-App-with-API/blob/deploy-branch/README.md]
+
+### Day 38:
+**Today's Progress**: trying to get a focus on learning and filtering through the noise. I have chose my three activities to focus on for the next 30 days: 1. learn/solidify my skills on treehouse 2.contribute to open source project 3. apply/interview for jobs with the help of cracking the coding interview book + pramp +thinkful mock interviews mentors. My ultimate goal is to get a remote full stack developer job.
+
+**Thoughts**: focus is key and sleep is for the weak.
