@@ -319,3 +319,7 @@ Learning python today. I like stuffs that have snakes as symbols since I am born
 **Today's Progress**: trying to get a focus on learning and filtering through the noise. I have chose my three activities to focus on for the next 30 days: 1. learn/solidify my skills on treehouse 2.contribute to open source project 3. apply/interview for jobs with the help of cracking the coding interview book + pramp +thinkful mock interviews mentors. My ultimate goal is to get a remote full stack developer job.
 
 **Thoughts**: focus is key and sleep is for the weak.
+### Day 39:
+**Today's Progress**: found a way to contribute to 1 open source project even though it meant only to add my name to the contributor list. It is also great to meet new people trying to get into coding and getting that first developer job. It is another stretch to reach what I want.
+
+**Link to Work**: https://github.com/Roshanjossey/first-contributions/pull/3384
