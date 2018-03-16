@@ -323,3 +323,17 @@ Learning python today. I like stuffs that have snakes as symbols since I am born
 **Today's Progress**: found a way to contribute to 1 open source project even though it meant only to add my name to the contributor list. It is also great to meet new people trying to get into coding and getting that first developer job. It is another stretch to reach what I want.
 
 **Link to Work**: https://github.com/Roshanjossey/first-contributions/pull/3384
+
+### Day 40:
+**Today's Progress**: back to the books.
+**Thoughts**: After trying out pluralsight, treehouse, coursera, and watch and code, I will stick with coursera because of the structure and the cost. I do better in materials where I can pace myself instead of the spoon-feeding or bite-size lessons. I also don't mind reading now because some books are representation of the author, it is like I am talking to a developer about JS. At some point, reading really opens up the brain to piece things together in a different way.
+**Link to work**: [Reading Notes](https://github.com/nnh242/Reading-Notes)
+
+### Day 41:
+**Today's Progress**: more reading and update on personal website
+**Thoughts**: recursive functions are leaps of faith.
+**Link to work**: (tinatheace.site)
+
+### Day 42:
+**Today's Progress**: not really any progress, got an interview today in person. Learned about JS obfuscator -- it tickles my brain. Encoding and decoding are a sort of translation, with specific rules and parameters. A function can automate and save time. When there's no progress or nothing to be code ... I draw triangles in SVG. Just triangles on top of new triangles... to remind myself to make a better and higher version of myself. Just the same triangle but in a different angle, a different position, but always better than yesterday.
+**Thoughts** : burning out is easy when I try to keep up with things. Priorities are family and my health.
