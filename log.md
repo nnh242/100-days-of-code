@@ -337,3 +337,8 @@ Learning python today. I like stuffs that have snakes as symbols since I am born
 ### Day 42:
 **Today's Progress**: not really any progress, got an interview today in person. Learned about JS obfuscator -- it tickles my brain. Encoding and decoding are a sort of translation, with specific rules and parameters. A function can automate and save time. When there's no progress or nothing to be code ... I draw triangles in SVG. Just triangles on top of new triangles... to remind myself to make a better and higher version of myself. Just the same triangle but in a different angle, a different position, but always better than yesterday.
 **Thoughts** : burning out is easy when I try to keep up with things. Priorities are family and my health.
+
+### Day 43:
+**Today's Progress**: fix: the style of portfolio. learn: more on JS basics. I will solidify my knowledge to change my approach to code. I tend to think longer and longer before writing code now. I have an idea to make things work but I also want to work it nicely.
+
+**Link to work**: (tinatheace.site)
