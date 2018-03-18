@@ -332,7 +332,7 @@ Learning python today. I like stuffs that have snakes as symbols since I am born
 ### Day 41:
 **Today's Progress**: more reading and update on personal website
 **Thoughts**: recursive functions are leaps of faith.
-**Link to work**: (tinatheace.site)
+**Link to work**: (www.tinatheace.site)
 
 ### Day 42:
 **Today's Progress**: not really any progress, got an interview today in person. Learned about JS obfuscator -- it tickles my brain. Encoding and decoding are a sort of translation, with specific rules and parameters. A function can automate and save time. When there's no progress or nothing to be code ... I draw triangles in SVG. Just triangles on top of new triangles... to remind myself to make a better and higher version of myself. Just the same triangle but in a different angle, a different position, but always better than yesterday.
@@ -340,5 +340,9 @@ Learning python today. I like stuffs that have snakes as symbols since I am born
 
 ### Day 43:
 **Today's Progress**: fix: the style of portfolio. learn: more on JS basics. I will solidify my knowledge to change my approach to code. I tend to think longer and longer before writing code now. I have an idea to make things work but I also want to work it nicely.
+**Link to work**: (www.tinatheace.site)
 
-**Link to work**: (tinatheace.site)
+### Day 44:
+**Today's Progress**: re-arrange elements on my portfolio website, as I am learning more about UI, putting emphasis on project's name and add icons to represent the technologies instead of using text.
+**Thoughts**: I am more creative when I don't have stress. Perhaps my portfolio will look more visual now with very few texts and more icons for the names of the technologies that I used and I am working with. I want to learn how to include data visualization and illustration. I have new plans to add to my portfolio: a list of games built with Phaser and a project using D3 - data intensive and rich visualization, maybe hooking a public API in and do a case study on real estate.
+**Link to work**: (www.tinatheace.site)
