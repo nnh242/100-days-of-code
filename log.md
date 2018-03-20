@@ -346,3 +346,8 @@ Learning python today. I like stuffs that have snakes as symbols since I am born
 **Today's Progress**: re-arrange elements on my portfolio website, as I am learning more about UI, putting emphasis on project's name and add icons to represent the technologies instead of using text.
 **Thoughts**: I am more creative when I don't have stress. Perhaps my portfolio will look more visual now with very few texts and more icons for the names of the technologies that I used and I am working with. I want to learn how to include data visualization and illustration. I have new plans to add to my portfolio: a list of games built with Phaser and a project using D3 - data intensive and rich visualization, maybe hooking a public API in and do a case study on real estate.
 **Link to work**: (www.tinatheace.site)
+
+### Day 45:
+**Today's Progress**: edited ReadME.md for CBJournal.
+**Thoughts**: thinking to redo the UI and UX for this CB Journal. API definitely has a limitation in terms of number of job posts, it is too bad the Dice API got taken down in October of 2017, they had more params to mine data from, I was going to do a map API as well to show who is hiring in a map. Google API is next. This CB Journal is definitely useful and worth the time to flesh out. Getting a Node Server hooked up to this will allow full CRUD operation on the app instead of simple AJAX Get call to the external Github Jobs API. There are a lot to do for this app to flesh it out and bring it up to the level of other projects in my portfolio.
+**Link to Work**: [CB Journal](https://github.com/nnh242/Career-Bullet-Journal)
