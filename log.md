@@ -351,3 +351,7 @@ Learning python today. I like stuffs that have snakes as symbols since I am born
 **Today's Progress**: edited ReadME.md for CBJournal.
 **Thoughts**: thinking to redo the UI and UX for this CB Journal. API definitely has a limitation in terms of number of job posts, it is too bad the Dice API got taken down in October of 2017, they had more params to mine data from, I was going to do a map API as well to show who is hiring in a map. Google API is next. This CB Journal is definitely useful and worth the time to flesh out. Getting a Node Server hooked up to this will allow full CRUD operation on the app instead of simple AJAX Get call to the external Github Jobs API. There are a lot to do for this app to flesh it out and bring it up to the level of other projects in my portfolio.
 **Link to Work**: [CB Journal](https://github.com/nnh242/Career-Bullet-Journal)
+
+### Day 46:
+**Today's Progress**: discovered watchandcode. Tried it out. I will recommend this to any new student of JS out there.
+**Thoughts**: sticking with JavaScript to gain super proficiency at it is my goal for the next 50 days till the end of this challenge.
