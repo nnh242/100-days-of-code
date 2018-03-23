@@ -355,3 +355,8 @@ Learning python today. I like stuffs that have snakes as symbols since I am born
 ### Day 46:
 **Today's Progress**: discovered watchandcode. Tried it out. I will recommend this to any new student of JS out there.
 **Thoughts**: sticking with JavaScript to gain super proficiency at it is my goal for the next 50 days till the end of this challenge.
+
+### Day 47:
+**Today's Progress**: spent time on watch and code and wrote the code in Atom and using live server to follow along, making notes in the comments and really make a point to finish this in 10 days. Starting a new job with heavy JS soon. I know JS but then I don't know it, from these series of videos I am learning how to explain JS in plain and easy to understand English and ability to illustrate JS concepts and features with code.
+**Thoughts**: watchandcode videos are very beginner-friendly. building a to do list is not boring, people should not be so turned-off by it. every web page has a list of items that requires CRUD operation - aka a to-do list.
+**Link to Work**: (https://github.com/nnh242/watchandcodenotes)
