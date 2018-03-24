@@ -360,3 +360,8 @@ Learning python today. I like stuffs that have snakes as symbols since I am born
 **Today's Progress**: spent time on watch and code and wrote the code in Atom and using live server to follow along, making notes in the comments and really make a point to finish this in 10 days. Starting a new job with heavy JS soon. I know JS but then I don't know it, from these series of videos I am learning how to explain JS in plain and easy to understand English and ability to illustrate JS concepts and features with code.
 **Thoughts**: watchandcode videos are very beginner-friendly. building a to do list is not boring, people should not be so turned-off by it. every web page has a list of items that requires CRUD operation - aka a to-do list.
 **Link to Work**: (https://github.com/nnh242/watchandcodenotes)
+
+### Day 48:
+**Today's Progress**: spent three hours at code and coffee coworking meetup to learn more on JS, malware analysis work/ day in the life, and meet new people. Went through version three of the todolist on watchandcode, learned about plunker, and the concept of Abilty = Process * Time which echos a lot of great advices I got from experienced developers.
+**Thoughts**: it's been a very productive day. :)
+**Link to work**
